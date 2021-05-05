@@ -1,0 +1,2 @@
+let randomNumber = Math.round(Math.random() * 100); // Math.random() возвращает псевдослучайное число с плавающей запятой из диапазона [0, 1), то есть, от 0 (включительно) до 1 (но не включая 1)
+console.log (randomNumber);
